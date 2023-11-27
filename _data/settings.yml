@@ -11,6 +11,7 @@ menu:
 - {name: 'Nos propositions', url: 'propositions'}
 - {name: 'Qui sommes nous ?',       url: 'qui-sommes-nous'}
 - {name: 'Nos soutiens',      url: 'soutiens'}
+- {name: 'Concours',      url: 'concours'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
