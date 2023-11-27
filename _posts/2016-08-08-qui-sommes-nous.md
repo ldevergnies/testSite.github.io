@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Qui sommes nous ?"
 author: "Paul Le"
 categories: sample
 tags: [sample]
